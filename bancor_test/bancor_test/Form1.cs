@@ -36,7 +36,7 @@ namespace bancor_test
             T = double.Parse(txtT.Text);
 
             txtR.Text = (R + E).ToString();
-            txtS.Text = (S + T).ToString();
+            txtS.Text = (S - T).ToString();
         }
 
         private void butRout_Click(object sender, EventArgs e)
@@ -51,7 +51,7 @@ namespace bancor_test
 
             E = double.Parse(txtE.Text);
          
-            txtS.Text = (S - T).ToString();
+            txtS.Text = (S + T).ToString();
             txtR.Text = (R - E).ToString();
         }
 
@@ -66,9 +66,9 @@ namespace bancor_test
 
         private void butReset_Click(object sender, EventArgs e)
         {
-            txtR.Text = "2000000";
-            txtS.Text = "100000000";
-            txtF.Text = "0.02";
+            txtR.Text = "100000";
+            txtS.Text = "1000000000";
+            txtF.Text = "0.1";
         }
     }
 }

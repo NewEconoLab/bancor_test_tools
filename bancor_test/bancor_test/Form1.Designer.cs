@@ -59,7 +59,7 @@
             this.txtR.Name = "txtR";
             this.txtR.Size = new System.Drawing.Size(100, 21);
             this.txtR.TabIndex = 0;
-            this.txtR.Text = "2000000";
+            this.txtR.Text = "100000";
             // 
             // label1
             // 
@@ -85,7 +85,7 @@
             this.txtS.Name = "txtS";
             this.txtS.Size = new System.Drawing.Size(100, 21);
             this.txtS.TabIndex = 2;
-            this.txtS.Text = "100000000";
+            this.txtS.Text = "1000000000";
             // 
             // label3
             // 
@@ -102,7 +102,7 @@
             this.txtF.Name = "txtF";
             this.txtF.Size = new System.Drawing.Size(100, 21);
             this.txtF.TabIndex = 4;
-            this.txtF.Text = "0.02";
+            this.txtF.Text = "0.1";
             // 
             // label4
             // 
@@ -117,7 +117,7 @@
             // 
             this.txtE.Location = new System.Drawing.Point(151, 184);
             this.txtE.Name = "txtE";
-            this.txtE.Size = new System.Drawing.Size(100, 21);
+            this.txtE.Size = new System.Drawing.Size(228, 21);
             this.txtE.TabIndex = 6;
             // 
             // label5
@@ -133,12 +133,12 @@
             // 
             this.txtT.Location = new System.Drawing.Point(151, 279);
             this.txtT.Name = "txtT";
-            this.txtT.Size = new System.Drawing.Size(100, 21);
+            this.txtT.Size = new System.Drawing.Size(228, 21);
             this.txtT.TabIndex = 8;
             // 
             // butRin
             // 
-            this.butRin.Location = new System.Drawing.Point(286, 182);
+            this.butRin.Location = new System.Drawing.Point(304, 211);
             this.butRin.Name = "butRin";
             this.butRin.Size = new System.Drawing.Size(75, 23);
             this.butRin.TabIndex = 10;
@@ -148,7 +148,7 @@
             // 
             // butRout
             // 
-            this.butRout.Location = new System.Drawing.Point(286, 277);
+            this.butRout.Location = new System.Drawing.Point(286, 304);
             this.butRout.Name = "butRout";
             this.butRout.Size = new System.Drawing.Size(94, 23);
             this.butRout.TabIndex = 11;
@@ -167,14 +167,14 @@
             // 
             // txtP
             // 
-            this.txtP.Location = new System.Drawing.Point(151, 356);
+            this.txtP.Location = new System.Drawing.Point(151, 350);
             this.txtP.Name = "txtP";
-            this.txtP.Size = new System.Drawing.Size(100, 21);
+            this.txtP.Size = new System.Drawing.Size(229, 21);
             this.txtP.TabIndex = 12;
             // 
             // butGetP
             // 
-            this.butGetP.Location = new System.Drawing.Point(286, 354);
+            this.butGetP.Location = new System.Drawing.Point(264, 389);
             this.butGetP.Name = "butGetP";
             this.butGetP.Size = new System.Drawing.Size(116, 23);
             this.butGetP.TabIndex = 14;

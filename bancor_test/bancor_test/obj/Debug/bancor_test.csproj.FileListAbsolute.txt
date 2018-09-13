@@ -8,3 +8,13 @@ D:\lab\bancor_test\bancor_test\obj\Debug\bancor_test.csproj.GenerateResource.cac
 D:\lab\bancor_test\bancor_test\obj\Debug\bancor_test.csproj.CoreCompileInputs.cache
 D:\lab\bancor_test\bancor_test\obj\Debug\bancor_test.exe
 D:\lab\bancor_test\bancor_test\obj\Debug\bancor_test.pdb
+D:\github\bancor_test_tools\bancor_test\bancor_test\bin\Debug\bancor_test.exe.config
+D:\github\bancor_test_tools\bancor_test\bancor_test\bin\Debug\bancor_test.exe
+D:\github\bancor_test_tools\bancor_test\bancor_test\bin\Debug\bancor_test.pdb
+D:\github\bancor_test_tools\bancor_test\bancor_test\obj\Debug\bancor_test.csprojAssemblyReference.cache
+D:\github\bancor_test_tools\bancor_test\bancor_test\obj\Debug\bancor_test.Form1.resources
+D:\github\bancor_test_tools\bancor_test\bancor_test\obj\Debug\bancor_test.Properties.Resources.resources
+D:\github\bancor_test_tools\bancor_test\bancor_test\obj\Debug\bancor_test.csproj.GenerateResource.cache
+D:\github\bancor_test_tools\bancor_test\bancor_test\obj\Debug\bancor_test.csproj.CoreCompileInputs.cache
+D:\github\bancor_test_tools\bancor_test\bancor_test\obj\Debug\bancor_test.exe
+D:\github\bancor_test_tools\bancor_test\bancor_test\obj\Debug\bancor_test.pdb
