@@ -1,0 +1,10 @@
+D:\lab\bancor_test\bancor_test\bin\Debug\bancor_test.exe.config
+D:\lab\bancor_test\bancor_test\bin\Debug\bancor_test.exe
+D:\lab\bancor_test\bancor_test\bin\Debug\bancor_test.pdb
+D:\lab\bancor_test\bancor_test\obj\Debug\bancor_test.csprojAssemblyReference.cache
+D:\lab\bancor_test\bancor_test\obj\Debug\bancor_test.Form1.resources
+D:\lab\bancor_test\bancor_test\obj\Debug\bancor_test.Properties.Resources.resources
+D:\lab\bancor_test\bancor_test\obj\Debug\bancor_test.csproj.GenerateResource.cache
+D:\lab\bancor_test\bancor_test\obj\Debug\bancor_test.csproj.CoreCompileInputs.cache
+D:\lab\bancor_test\bancor_test\obj\Debug\bancor_test.exe
+D:\lab\bancor_test\bancor_test\obj\Debug\bancor_test.pdb
